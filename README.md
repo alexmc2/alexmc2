@@ -1,16 +1,16 @@
 # Alex McGarry
 
 <p align="left">
-  <img alt="TypeScript" src="stack/ts.svg" height="54" />
+  <img alt="TypeScript" src="https://api.iconify.design/vscode-icons/file-type-typescript-official.svg" height="54" />
   <img alt="React" src="stack/react.svg" height="54" />
-  <img alt="Next.js" src="stack/nextjs.svg" height="54" />
-  <img alt="Linux" src="stack/linux.svg" height="54" />
+  <img alt="Next.js" src="https://api.iconify.design/logos/nextjs-icon.svg" height="54" />
+  <img alt="Linux" src="https://api.iconify.design/logos/linux-tux.svg" height="54" />
   <img alt="Tailwind CSS" src="stack/tailwind.svg" height="54" />
   <img alt="PostgreSQL" src="stack/postgresql.svg" height="54" />
   <img alt="Supabase" src="stack/supabase.svg" height="54" />
   <img alt="Node.js" src="stack/node.svg" height="54" />
   <img alt="MongoDB" src="stack/mongo.svg" height="54" />
-  <img alt="Photoshop" src="stack/ps.svg" height="54" />
+  <img alt="Photoshop" src="https://api.iconify.design/logos/adobe-photoshop.svg" height="54" />
 </p>
 
 **I'm a Brighton-based software developer currently training on TechNative Digital’s Tech Finishing School (advanced software development).**
