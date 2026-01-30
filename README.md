@@ -1,10 +1,10 @@
 # Alex McGarry
 
 <p align="left">
-  <img alt="Linux" src="stack/linux.svg" height="54" />
+  <img alt="TypeScript" src="stack/ts.svg" height="54" />
   <img alt="React" src="stack/react.svg" height="54" />
   <img alt="Next.js" src="stack/nextjs.svg" height="54" />
-  <img alt="TypeScript" src="stack/ts.svg" height="54" />
+  <img alt="Linux" src="stack/linux.svg" height="54" />
   <img alt="Tailwind CSS" src="stack/tailwind.svg" height="54" />
   <img alt="PostgreSQL" src="stack/postgresql.svg" height="54" />
   <img alt="Supabase" src="stack/supabase.svg" height="54" />
