@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="Linux" src="stack/linux.svg" height="54" />
   <img alt="React" src="stack/react.svg" height="54" />
-  <img alt="Next.js" src="stack/next.svg" height="54" />
+  <img alt="Next.js" src="stack/nextjs.svg" height="54" />
   <img alt="TypeScript" src="stack/ts.svg" height="54" />
   <img alt="Tailwind CSS" src="stack/tailwind.svg" height="54" />
   <img alt="PostgreSQL" src="stack/postgresql.svg" height="54" />
@@ -17,7 +17,7 @@
 
 I build full-stack web applications with JavaScript/TypeScript, React/Next.js, Node/Express, and PostgreSQL/Supabase. I also have an interest in Linux environments and system architecture, using Python and Bash for scripting. Adaptable and always keen to pick up new technologies, I enjoy building secure, practical applications and care about creating great user experiences.
 
-With a previous background in accountancy, I am naturally analytical and logical, detail-oriented, and enjoy problem-solving.
+With a previous background in accountancy, I am naturally analytical, detail-oriented, and enjoy problem-solving.
 
 My latest project is [CodeShare](https://codeshare.uk), a real-time, browser-based collaborative code editor and whiteboard for pair programming. I created this when I realised that my cohort and I at TechNative Digital needed a frictionless way to quickly view, share, and edit code together. Building this was a fantastic learning experience, particularly in real-time network synchronisation, setting up reliable peer-to-peer connections with WebRTC (using TURN for NAT traversal), and keeping user content in sync using Yjs.
 
