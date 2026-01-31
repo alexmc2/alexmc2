@@ -51,7 +51,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="stack/dark/ps.svg">
     <source media="(prefers-color-scheme: light)" srcset="stack/light/ps.svg">
-    <img alt="Photoshop" src="stack2/light/ps.svg" height="54" />
+    <img alt="Photoshop" src="stack/light/ps.svg" height="54" />
   </picture>
 </p>
 
@@ -59,11 +59,11 @@
 
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3
 - **Backend:** Node.js, Express
-- **Databases & BaaS:** PostgreSQL, SQLite, Supabase, MongoDB
-- **Developer Tools:** Git, Linux, Bash, Docker, Python
+- **Databases & Services:** PostgreSQL, SQLite, Supabase, MongoDB
+- **Development Tools:** Git, Linux, Bash, Docker, Python
 - **Design:** Figma, Photoshop
 
-## About Me
+## About me
 
 I'm a Brighton-based software developer currently training on TechNative Digital’s Tech Finishing School (advanced software development).
 
@@ -81,15 +81,20 @@ I’m currently looking for a junior full-stack developer role in Brighton, Lond
 
 A real-time, browser-based collaborative code editor and whiteboard for pair programming. Built to solve the need for frictionless code sharing during remote pair programming sessions.
 
-**Tech Stack:**
+**Tech stack:**
 
-- **Core:** React, TypeScript, Next.js
-- **Real-time Sync:** WebRTC (Peer-to-Peer), Yjs (CRDTs)
-- **Networking:** TURN (NAT traversal)
-- **Styling:** Tailwind CSS
+- **Client:** Vite, React, TypeScript, Tailwind CSS
+- **Editor:** Monaco Editor
+- **Real-time sync:** Yjs (CRDT) + custom WebRTC provider
+- **Networking:** WebRTC (peer-to-peer) with optional TURN support for NAT traversal
+- **Signalling:** Socket.IO
+- **Server:** Node.js, Express
 
-**Key Features:**
+**Key features:**
 
-- Real-time cursor tracking and text synchronization.
-- Collaborative whiteboard with robust conflict resolution.
-- Responsive, low-latency peer-to-peer connection.
+- Collaborative code editor (Monaco) with multi-language support and formatting for supported languages
+- Canvas-based whiteboard with core drawing tools (pen, line, rectangle, circle)
+- Live chat synced across participants
+- Peer-to-peer collaboration over WebRTC (TURN supported for restrictive networks)
+- Accountless sessions: create a session and share the link
+- Privacy-first: server handles signalling only and never sees your content
