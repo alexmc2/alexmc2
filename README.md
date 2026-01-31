@@ -1,6 +1,6 @@
 # Alex McGarry
 
-### Software Developer | TechNative Digital
+### Software Developer
 
 <p align="left">
   <picture>
