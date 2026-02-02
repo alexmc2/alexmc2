@@ -65,8 +65,6 @@
 
 ## About me
 
-I'm a Brighton-based software developer currently training on TechNative Digital’s Tech Finishing School (advanced software development).
-
 I build full-stack web applications with JavaScript/TypeScript, React/Next.js, Node/Express, and PostgreSQL/Supabase. I’m comfortable working in Linux-based environments and often use Python and Bash for scripting and automation.
 
 Adaptable, curious, and always keen to pick up new technologies, I enjoy all aspects of the development process from data modelling and APIs through to UI design in Figma. I’m also studying for the CompTIA Security+ certification to strengthen my understanding of secure development practices.
