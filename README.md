@@ -57,7 +57,7 @@
 
 ## Technical Skills
 
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
 - **Backend:** Node.js, Express
 - **Databases & Services:** PostgreSQL, SQLite, Supabase, MongoDB
 - **Development Tools:** Git, Linux, Bash, Docker, Python
