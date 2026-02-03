@@ -1,6 +1,6 @@
 # Alex McGarry
 
-### Software Developer
+## Software Developer
 
 <p align="left">
   <picture>
