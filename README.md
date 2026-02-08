@@ -1,6 +1,6 @@
 # Alex McGarry
 
-### Software Developer
+## Software Developer
 
 <p align="left">
   <picture>
@@ -57,15 +57,13 @@
 
 ## Technical Skills
 
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
 - **Backend:** Node.js, Express
 - **Databases & Services:** PostgreSQL, SQLite, Supabase, MongoDB
 - **Development Tools:** Git, Linux, Bash, Docker, Python
 - **Design:** Figma, Photoshop
 
 ## About me
-
-I'm a Brighton-based software developer currently training on TechNative Digital’s Tech Finishing School (advanced software development).
 
 I build full-stack web applications with JavaScript/TypeScript, React/Next.js, Node/Express, and PostgreSQL/Supabase. I’m comfortable working in Linux-based environments and often use Python and Bash for scripting and automation.
 
