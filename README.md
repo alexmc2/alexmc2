@@ -91,7 +91,7 @@ A real-time, browser-based collaborative code editor and whiteboard for pair pro
 **Key features:**
 
 - Collaborative code editor (Monaco) with multi-language support and formatting for supported languages
-- Canvas-based whiteboard with core drawing tools (pen, line, rectangle, circle)
+- Canvas-based whiteboard with core with image upload support and drawing tools (pen, line, rectangle, circle)
 - Live chat synced across participants
 - Peer-to-peer collaboration over WebRTC (TURN supported for restrictive networks)
 - Accountless sessions: just create a session and share the link
