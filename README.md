@@ -98,3 +98,5 @@ A real-time, browser-based collaborative code editor and whiteboard for pair pro
 - Peer-to-peer collaboration over WebRTC (TURN supported for restrictive networks)
 - Accountless sessions: create a session and share the link
 - Privacy-first: server handles signalling only and never sees your content
+
+![My GitHub Game](game.gif)
