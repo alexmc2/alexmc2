@@ -94,7 +94,7 @@ A real-time, browser-based collaborative code editor and whiteboard for pair pro
 - Canvas-based whiteboard with core drawing tools (pen, line, rectangle, circle)
 - Live chat synced across participants
 - Peer-to-peer collaboration over WebRTC (TURN supported for restrictive networks)
-- Accountless sessions: create a session and share the link
+- Accountless sessions: just create a session and share the link
 - Privacy-first: server handles signalling only and never sees your content
 
 ![My GitHub Game](game.gif#gh-dark-mode-only)
