@@ -81,9 +81,9 @@ Full-stack developer specializing in building modern, scalable web applications 
 
 ## 📫 Get In Touch
 
-- 💼 LinkedIn: [alex-mcgarry](https://www.linkedin.com/in/alex-mcgarry) *(Update with your actual LinkedIn URL)*
+- 💼 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/alex-mcgarry)
 - 🌐 Portfolio: [codeshare.uk](https://codeshare.uk)
-- 📧 Email: *(Add your professional email)*
+- 📧 Email: [Contact via GitHub](https://github.com/alexmc2)
 - 📍 Location: Brighton, UK (open to London, Cambridge, or remote)
 
 ## 🚀 Featured Projects

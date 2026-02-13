@@ -36,8 +36,8 @@ Your GitHub profile has been significantly upgraded with the following improveme
 ### Immediate Actions (High Priority)
 
 #### 1. **Complete Your Profile Information**
-- [ ] Add your professional email address to the README
-- [ ] Update your LinkedIn URL in the README (currently has placeholder)
+- [ ] Add your actual LinkedIn URL to the README (currently links to a placeholder)
+- [ ] Add your professional email address to the README or update the contact link
 - [ ] Add LinkedIn URL to your GitHub profile settings
 - [ ] Add your location to GitHub profile settings
 - [ ] Set your status to "Looking for opportunities" or similar
