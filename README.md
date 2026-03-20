@@ -1,6 +1,6 @@
 # Alex McGarry
 
-## Software Developer
+## Full-Stack Software Developer
 
 <p align="left">
   <picture>
@@ -61,19 +61,20 @@
 - **Backend:** Node.js, Express
 - **Databases & Services:** PostgreSQL, SQLite, Supabase, MongoDB
 - **Development Tools:** Git, Linux, Bash, Docker, Python
+- **Testing:** Jest, Supertest, Vitest
 - **Design:** Figma, Photoshop
 
 ## About me
 
 I build full-stack web applications with JavaScript/TypeScript, React/Next.js, Node/Express, and PostgreSQL/Supabase. I’m comfortable working in Linux-based environments and often use Python and Bash for scripting and automation.
 
-Adaptable, curious, and always keen to pick up new technologies, I enjoy all aspects of the development process from data modelling and APIs through to UI design in Figma. I’m also studying for the CompTIA Security+ certification to strengthen my understanding of secure development practices.
+Adaptable, curious, and always keen to pick up new technologies, I enjoy all aspects of the development process from data modelling and APIs through to UI design in Figma. I have a keen interest in security and am currently studying for the CompTIA Security+ certification to strengthen my understanding of the security landscape.
 
 With a previous background in accountancy, I am naturally analytical, detail-oriented, and enjoy problem-solving.
 
-I’m currently looking for a junior full-stack developer role in Brighton, London, Cambridge, or remote.
+I’m currently open to full-stack developer roles in Brighton, London, Cambridge, or remote.
 
-## Latest Project
+<!-- ## Latest Project
 
 ### [CodeShare](https://codeshare.uk)
 
@@ -95,6 +96,6 @@ A real-time, browser-based collaborative code editor and whiteboard for pair pro
 - Live chat synced across participants
 - Peer-to-peer collaboration over WebRTC (TURN supported for restrictive networks)
 - Accountless sessions: just create a session and share the link
-- Privacy-first: server handles signalling only and never sees your content
+- Privacy-first: server handles signalling only and never sees your content -->
 
 ![My GitHub Game](game.gif#gh-dark-mode-only)
